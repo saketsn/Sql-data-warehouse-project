@@ -13,6 +13,7 @@ Silver Layer: Data is cleaned, formatted, and normalized to prepare it for analy
 Gold Layer: Final layer with business-ready data structured into a star schema for reporting and dashboards.
 
  Project Highlights
+ 
 Here’s what this project includes:
 
 Data Modeling: Designing and creating fact and dimension tables for analytics.
