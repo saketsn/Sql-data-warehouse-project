@@ -1,4 +1,5 @@
  Data Warehouse & Analytics Project
+
 Welcome to my Data Warehouse and Analytics Project
 This project showcases the end-to-end process of building a modern data warehouse and generating useful insights using SQL. It’s designed as a hands-on learning and portfolio project that reflects real-world data engineering and analytics practices.
 
